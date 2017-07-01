@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\JuegoDeLaVidaINTENTO.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\JuegoDeLaVidaINTENTO.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\JuegoDeLaVidaINTENTO.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\bin\Debug\Game of Life.exe.config
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\bin\Debug\Game of Life.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\bin\Debug\Game of Life.pdb
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\Game of Life.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\Game of Life.pdb
+\\mac\home\documents\visual studio 2017\Projects\JuegoDeLaVidaINTENTO\JuegoDeLaVidaINTENTO\obj\Debug\JuegoDeLaVidaINTENTO.GOFMain.resources
